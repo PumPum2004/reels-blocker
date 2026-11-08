@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reels Blocker</string>
+    <string name="service_description">Erkennt in Instagram den Reels-Bereich und springt automatisch zurück zum Feed. Es werden nur Bildschirmelemente der Instagram-App gelesen, nichts wird gespeichert oder gesendet.</string>
+</resources>
